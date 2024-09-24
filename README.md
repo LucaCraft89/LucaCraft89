@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lucacraft89) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lucacraft89) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lucacraft89) [![LinkStack](https://docs.linkstack.org/assets/img/overview/banner_wide_dark.png)](https://link.dallh2o.com/@lucacraft89) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lucacraft89) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lucacraft89) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lucacraft89)
 
 # 💻 Tech Stack
 ## 🧑‍💻 Languages
