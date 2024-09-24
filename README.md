@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 High School Student<br>🏫 I.T.S.T. J.F.Kennedy Pordenone<br>😎 Frontend oriented
+📚 High School Student<br>🏫 I.T.S.T. J.F.Kennedy Pordenone<br>😎 Frontend oriented<br>🔗 https://link.dallh2o.com/@lucacraft89
 
 
 ## 🌐 Socials:
