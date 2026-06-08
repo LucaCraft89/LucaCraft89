@@ -35,16 +35,20 @@
 
 <p align="center"><strong>Classeviva Api Research</strong></p>
 <p align="center">
-  <a href="https://github.com/LucaCraft89/CVVSimpleAvgrage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=CVVSimpleAvgrage&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
-  <a href="https://github.com/LucaCraft89/CVVCalendarSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=CVVCalendarSync&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
-  <a href="https://github.com/LucaCraft89/CVVApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=CVVApp&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
+  <a href="https://github.com/LucaCraft89/CVVSimpleAvgrage"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">CVVSimpleAvgrage</span></a>
+  <br />
+  <a href="https://github.com/LucaCraft89/CVVCalendarSync"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">CVVCalendarSync</span></a>
+  <br />
+  <a href="https://github.com/LucaCraft89/CVVApp"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">CVVApp</span></a>
 </p>
 
 <p align="center"><strong>Tools and Helpers</strong></p>
 <p align="center">
-  <a href="https://github.com/LucaCraft89/termius-extractor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=termius-extractor&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
-  <a href="https://github.com/LucaCraft89/nextcloud-gcalendar-sync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=nextcloud-gcalendar-sync&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
-  <a href="https://github.com/LucaCraft89/DeployScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaCraft89&repo=DeployScript&theme=transparent&hide_border=true&title_color=00ff6a&text_color=dfffe8&icon_color=00ff6a&bg_color=08130a&border_color=00ff6a" alt="" /></a>
+  <a href="https://github.com/LucaCraft89/termius-extractor"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">termius-extractor</span></a>
+  <br />
+  <a href="https://github.com/LucaCraft89/nextcloud-gcalendar-sync"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">nextcloud-gcalendar-sync</span></a>
+  <br />
+  <a href="https://github.com/LucaCraft89/DeployScript"><img src="https://api.iconify.design/simple-icons:github.svg?color=%2300ff6a" width="22" height="22" alt="" /> <span style="color:#dfffe8">DeployScript</span></a>
 </p>
 
 <p align="center">
