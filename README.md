@@ -33,6 +33,10 @@
   <img src="assets/neon/divider.svg" alt="" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://link.dallh2o.com/@lucacraft89"><img src="https://img.shields.io/badge/link.hub-0b1a0f?style=flat-square&logo=linktree&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="link.dallh2o.com/@lucacraft89" /></a>
+</p>
+
 <p align="center"><strong>Classeviva Api Research</strong></p>
 <p align="center">
   <a href="https://github.com/LucaCraft89/CVVSimpleAvgrage"><img src="https://img.shields.io/badge/CVVSimpleAvgrage-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVSimpleAvgrage" /></a>
