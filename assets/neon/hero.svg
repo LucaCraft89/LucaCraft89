@@ -43,8 +43,8 @@
     <circle cx="800" cy="178" r="28" opacity="0.35"/>
   </g>
   <g filter="url(#blur)">
-    <text x="800" y="232" text-anchor="middle" font-family="'Segoe UI', 'Arial', sans-serif" font-size="54" font-weight="800" letter-spacing="2.5" fill="#00FF6A" fill-opacity="0.95">LucaCraft89</text>
+    <text x="800" y="234" text-anchor="middle" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="84" font-weight="700" letter-spacing="3.5" fill="#00FF6A" fill-opacity="0.98">LucaCraft89</text>
   </g>
-  <text x="800" y="232" text-anchor="middle" font-family="'Segoe UI', 'Arial', sans-serif" font-size="54" font-weight="800" letter-spacing="2.5" fill="#C8FFE1">LucaCraft89</text>
+  <text x="800" y="234" text-anchor="middle" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="84" font-weight="700" letter-spacing="3.5" fill="#D9FFE9">LucaCraft89</text>
   <rect x="28" y="28" width="1544" height="304" rx="28" stroke="#00FF6A" stroke-opacity="0.18"/>
 </svg>
