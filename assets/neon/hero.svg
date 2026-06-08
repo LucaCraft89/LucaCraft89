@@ -1,0 +1,46 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#041007"/>
+      <stop offset="1" stop-color="#07170B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 180) rotate(90) scale(180 800)">
+      <stop stop-color="#00FF6A" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#00FF6A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="360" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="360" rx="36" fill="url(#glow)"/>
+  <g opacity="0.7">
+    <path d="M120 256C264 188 364 168 500 172C666 177 718 88 848 78C1016 66 1078 178 1218 184C1338 190 1426 150 1498 120" stroke="#00FF6A" stroke-opacity="0.32" stroke-width="2.5" filter="url(#soft)"/>
+    <path d="M100 118C216 74 350 82 474 114C622 153 710 70 844 60C1008 49 1088 148 1222 154C1356 160 1450 124 1516 94" stroke="#00FF6A" stroke-opacity="0.18" stroke-width="2" filter="url(#soft)"/>
+  </g>
+  <g filter="url(#blur)" opacity="0.65" stroke="#00FF6A" stroke-width="3" fill="none">
+    <circle cx="800" cy="178" r="82" opacity="0.8"/>
+    <circle cx="800" cy="178" r="118" opacity="0.38"/>
+    <circle cx="800" cy="178" r="154" opacity="0.16"/>
+  </g>
+  <g fill="#00FF6A" filter="url(#blur)">
+    <circle cx="360" cy="92" r="5" opacity="0.55"/>
+    <circle cx="460" cy="266" r="4" opacity="0.7"/>
+    <circle cx="1110" cy="104" r="5" opacity="0.55"/>
+    <circle cx="1230" cy="252" r="4" opacity="0.75"/>
+    <circle cx="1380" cy="168" r="6" opacity="0.65"/>
+    <circle cx="220" cy="190" r="5" opacity="0.55"/>
+  </g>
+  <g stroke="#00FF6A" stroke-opacity="0.65" stroke-width="1.5">
+    <path d="M360 92L800 178L1110 104" opacity="0.38"/>
+    <path d="M220 190L460 266L800 178L1230 252L1380 168" opacity="0.30"/>
+  </g>
+  <g fill="#00FF6A">
+    <circle cx="800" cy="178" r="12"/>
+    <circle cx="800" cy="178" r="28" opacity="0.35"/>
+  </g>
+  <rect x="28" y="28" width="1544" height="304" rx="28" stroke="#00FF6A" stroke-opacity="0.18"/>
+</svg>

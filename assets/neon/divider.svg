@@ -1,0 +1,18 @@
+<svg width="1600" height="56" viewBox="0 0 1600 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="28" x2="1600" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF6A" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#00FF6A" stop-opacity="0.65"/>
+      <stop offset="0.5" stop-color="#00FF6A"/>
+      <stop offset="0.85" stop-color="#00FF6A" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#00FF6A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-120%" width="120%" height="340%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect x="0" y="27" width="1600" height="2" fill="url(#line)"/>
+  <rect x="0" y="27" width="1600" height="2" fill="#00FF6A" opacity="0.35" filter="url(#glow)"/>
+  <circle cx="800" cy="28" r="7" fill="#00FF6A" filter="url(#glow)"/>
+  <circle cx="800" cy="28" r="2.5" fill="#E6FFF0"/>
+</svg>
