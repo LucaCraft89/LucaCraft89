@@ -38,13 +38,9 @@
     <path d="M360 92L800 178L1110 104" opacity="0.38"/>
     <path d="M220 190L460 266L800 178L1230 252L1380 168" opacity="0.30"/>
   </g>
-  <g fill="#00FF6A">
-    <circle cx="800" cy="178" r="12"/>
-    <circle cx="800" cy="178" r="28" opacity="0.35"/>
-  </g>
   <g filter="url(#blur)">
-    <text x="800" y="232" text-anchor="middle" textLength="1320" lengthAdjust="spacingAndGlyphs" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="96" font-weight="700" letter-spacing="4" fill="#00FF6A" fill-opacity="0.82">LucaCraft89</text>
+    <text x="800" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="138" font-weight="700" letter-spacing="0" fill="#00FF6A" fill-opacity="0.28">LucaCraft89</text>
   </g>
-  <text x="800" y="232" text-anchor="middle" textLength="1320" lengthAdjust="spacingAndGlyphs" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="96" font-weight="700" letter-spacing="4" fill="#D9FFE9" fill-opacity="0.9">LucaCraft89</text>
+  <text x="800" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="138" font-weight="700" letter-spacing="0" fill="#D9FFE9" fill-opacity="0.56">LucaCraft89</text>
   <rect x="28" y="28" width="1544" height="304" rx="28" stroke="#00FF6A" stroke-opacity="0.18"/>
 </svg>
