@@ -15,8 +15,8 @@
       <feGaussianBlur stdDeviation="5"/>
     </filter>
   </defs>
-  <rect width="1600" height="360" rx="36" fill="url(#bg)"/>
-  <rect width="1600" height="360" rx="36" fill="url(#glow)"/>
+  <rect width="1600" height="360" rx="36" fill="url(#bg)" opacity="0.9"/>
+  <rect width="1600" height="360" rx="36" fill="url(#glow)" opacity="0.82"/>
   <g opacity="0.7">
     <path d="M120 256C264 188 364 168 500 172C666 177 718 88 848 78C1016 66 1078 178 1218 184C1338 190 1426 150 1498 120" stroke="#00FF6A" stroke-opacity="0.32" stroke-width="2.5" filter="url(#soft)"/>
     <path d="M100 118C216 74 350 82 474 114C622 153 710 70 844 60C1008 49 1088 148 1222 154C1356 160 1450 124 1516 94" stroke="#00FF6A" stroke-opacity="0.18" stroke-width="2" filter="url(#soft)"/>
@@ -43,8 +43,8 @@
     <circle cx="800" cy="178" r="28" opacity="0.35"/>
   </g>
   <g filter="url(#blur)">
-    <text x="800" y="234" text-anchor="middle" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="84" font-weight="700" letter-spacing="3.5" fill="#00FF6A" fill-opacity="0.98">LucaCraft89</text>
+    <text x="800" y="232" text-anchor="middle" textLength="1320" lengthAdjust="spacingAndGlyphs" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="96" font-weight="700" letter-spacing="4" fill="#00FF6A" fill-opacity="0.82">LucaCraft89</text>
   </g>
-  <text x="800" y="234" text-anchor="middle" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="84" font-weight="700" letter-spacing="3.5" fill="#D9FFE9">LucaCraft89</text>
+  <text x="800" y="232" text-anchor="middle" textLength="1320" lengthAdjust="spacingAndGlyphs" font-family="'Share Tech Mono', 'VT323', 'OCR A Extended', 'IBM Plex Mono', monospace" font-size="96" font-weight="700" letter-spacing="4" fill="#D9FFE9" fill-opacity="0.9">LucaCraft89</text>
   <rect x="28" y="28" width="1544" height="304" rx="28" stroke="#00FF6A" stroke-opacity="0.18"/>
 </svg>
