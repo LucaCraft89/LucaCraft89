@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://github.com/LucaCraft89/CVVSimpleAvgrage"><img src="https://img.shields.io/badge/CVVSimpleAvgrage-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVSimpleAvgrage" /></a>
   <a href="https://github.com/LucaCraft89/CVVCalendarSync"><img src="https://img.shields.io/badge/CVVCalendarSync-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVCalendarSync" /></a>
-  <a href="https://github.com/LucaCraft89/CVVApp"><img src="https://img.shields.io/badge/CVVApp-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVApp" /></a>
+  <a href="https://github.com/LucaCraft89/cvvmaterial"><img src="https://img.shields.io/badge/CVVApp-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVApp" /></a>
 </p>
 
 <p align="center"><strong>Tools and Helpers</strong></p>
