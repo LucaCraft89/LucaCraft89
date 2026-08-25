@@ -44,6 +44,17 @@
   <a href="https://github.com/LucaCraft89/cvvmaterial"><img src="https://img.shields.io/badge/CVVApp-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="CVVApp" /></a>
 </p>
 
+<p align="center"><strong>Hardware and Home Lab</strong></p>
+<p align="center">
+  <a href="https://github.com/LucaCraft89/enter-bot"><img src="https://img.shields.io/badge/enter--bot-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="enter-bot" /></a>
+  <a href="https://github.com/LucaCraft89/came_access"><img src="https://img.shields.io/badge/came__access-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="came_access" /></a>
+</p>
+
+<p align="center"><strong>Web</strong></p>
+<p align="center">
+  <a href="https://github.com/LucaCraft89/grav-plugin-pizzeria-menu"><img src="https://img.shields.io/badge/grav--plugin--pizzeria--menu-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="grav-plugin-pizzeria-menu" /></a>
+</p>
+
 <p align="center"><strong>Tools and Helpers</strong></p>
 <p align="center">
   <a href="https://github.com/LucaCraft89/termius-extractor"><img src="https://img.shields.io/badge/termius--extractor-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="termius-extractor" /></a>
