@@ -48,6 +48,7 @@
 <p align="center">
   <a href="https://github.com/LucaCraft89/enter-bot"><img src="https://img.shields.io/badge/enter--bot-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="enter-bot" /></a>
   <a href="https://github.com/LucaCraft89/came_access"><img src="https://img.shields.io/badge/came__access-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="came_access" /></a>
+  <a href="https://github.com/LucaCraft89/xm-cam-talk"><img src="https://img.shields.io/badge/xm--cam--talk-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="xm-cam-talk" /></a>
 </p>
 
 <p align="center"><strong>Web</strong></p>
