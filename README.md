@@ -58,6 +58,7 @@
 
 <p align="center"><strong>Tools and Helpers</strong></p>
 <p align="center">
+  <a href="https://github.com/LucaCraft89/technitium-ddns"><img src="https://img.shields.io/badge/technitium--ddns-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="technitium-ddns" /></a>
   <a href="https://github.com/LucaCraft89/termius-extractor"><img src="https://img.shields.io/badge/termius--extractor-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="termius-extractor" /></a>
   <a href="https://github.com/LucaCraft89/nextcloud-gcalendar-sync"><img src="https://img.shields.io/badge/nextcloud--gcalendar--sync-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="nextcloud-gcalendar-sync" /></a>
   <a href="https://github.com/LucaCraft89/DeployScript"><img src="https://img.shields.io/badge/DeployScript-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="DeployScript" /></a>
