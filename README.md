@@ -51,6 +51,11 @@
   <a href="https://github.com/LucaCraft89/xm-cam-talk"><img src="https://img.shields.io/badge/xm--cam--talk-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="xm-cam-talk" /></a>
 </p>
 
+<p align="center"><strong>PNLUG</strong></p>
+<p align="center">
+  <a href="https://github.com/LucaCraft89/pnlug-automated_rescuezilla"><img src="https://img.shields.io/badge/pnlug--automated_rescuezilla-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="pnlug-automated_rescuezilla" /></a>
+</p>
+
 <p align="center"><strong>Web</strong></p>
 <p align="center">
   <a href="https://github.com/LucaCraft89/grav-plugin-pizzeria-menu"><img src="https://img.shields.io/badge/grav--plugin--pizzeria--menu-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="grav-plugin-pizzeria-menu" /></a>
