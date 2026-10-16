@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neon/hero.svg" alt="" width="100%" />
+  <img src="assets/neon/banner.png" alt="" width="100%" />
 </p>
 
 <p align="center">
