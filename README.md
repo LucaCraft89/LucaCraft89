@@ -3,30 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,dart,flutter,js,cpp,c,bash,html,css,mysql,git,docker,linux&theme=dark&perline=10" alt="" />
+  <img src="https://skillicons.dev/icons?i=py,dart,flutter,js,ts,nodejs,cpp,c,bash,html,css,mysql,git,docker,linux&theme=dark&perline=10" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons:debian.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:nginx.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:apache.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:cloudflare.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:proxmox.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:wireguard.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:homeassistant.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:arduino.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:cisco.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:openwrt.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/debian.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/nginx.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/apache.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/proxmox.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/wireguard.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/homeassistant.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/arduino.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/cisco.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/openwrt.svg?color=%2300ff6a" width="44" height="44" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons:opnsense.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:espressif.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:zigbee.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/material-symbols:hub.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/simple-icons:blender.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/material-symbols:speed.svg?color=%2300ff6a" width="44" height="44" alt="" />
-  <img src="https://api.iconify.design/material-symbols:terminal.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/opnsense.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/espressif.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/zigbee.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/material-symbols/hub.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/simple-icons/blender.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/material-symbols/speed.svg?color=%2300ff6a" width="44" height="44" alt="" />
+  <img src="https://api.iconify.design/material-symbols/terminal.svg?color=%2300ff6a" width="44" height="44" alt="" />
 </p>
 
 <p align="center">
@@ -57,6 +57,11 @@
   <a href="https://github.com/LucaCraft89/dallh2o-WiiRoot"><img src="https://img.shields.io/badge/dallh2o--WiiRoot-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="dallh2o-WiiRoot" /></a>
 </p>
 
+<p align="center"><strong>University</strong><br/><sub>Politecnico di Torino, self-hosted and local-first</sub></p>
+<p align="center">
+  <a href="https://github.com/LucaCraft89/polito-cal-sync"><img src="https://img.shields.io/badge/polito--cal--sync-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="polito-cal-sync" /></a>
+</p>
+
 <p align="center"><strong>Tools and Helpers</strong><br/><sub>Small Python and shell utilities</sub></p>
 <p align="center">
   <a href="https://github.com/LucaCraft89/technitium-ddns"><img src="https://img.shields.io/badge/technitium--ddns-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="technitium-ddns" /></a>
@@ -78,6 +83,6 @@
 </p>
 
 <p align="center">
-  <a href="https://paypal.me/lucacraft89"><img src="https://api.iconify.design/simple-icons:paypal.svg?color=%2300ff6a" width="54" height="54" alt="" /></a>
+  <a href="https://paypal.me/lucacraft89"><img src="https://api.iconify.design/simple-icons/paypal.svg?color=%2300ff6a" width="54" height="54" alt="" /></a>
 </p>
 
