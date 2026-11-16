@@ -70,6 +70,11 @@
   <a href="https://github.com/LucaCraft89/DeployScript"><img src="https://img.shields.io/badge/DeployScript-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="DeployScript" /></a>
 </p>
 
+<p align="center"><strong>Linux Desktop</strong><br/><sub>Bootloader theming</sub></p>
+<p align="center">
+  <a href="https://github.com/LucaCraft89/material-grub"><img src="https://img.shields.io/badge/material--grub-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="material-grub" /></a>
+</p>
+
 <p align="center"><strong>PNLUG</strong><br/><sub>Linux user group tooling</sub></p>
 <p align="center">
   <a href="https://github.com/LucaCraft89/pnlug-automated_rescuezilla"><img src="https://img.shields.io/badge/pnlug--automated__rescuezilla-0b1a0f?style=flat-square&logo=github&logoColor=00ff6a&labelColor=0b1a0f&color=0b1a0f" alt="pnlug-automated_rescuezilla" /></a>
